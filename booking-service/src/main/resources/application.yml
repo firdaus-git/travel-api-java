@@ -1,0 +1,7 @@
+# Spring related properties
+spring:
+  # application name
+  application:
+    name: booking-service
+  # Active profile
+  profiles.active: dev
